@@ -1,0 +1,19 @@
+{
+  "name": "CLYZ Blog",
+  "short_name": "CLYZ Blog",
+  "description": "",
+  "icons": [{
+    "src": "icons/pwa_icon_256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }, {
+    "src": "icons/pwa_icon_256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }],
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
